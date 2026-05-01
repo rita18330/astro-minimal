@@ -13,3 +13,4 @@ An open source blog template build with Astro and Bulma 🚀
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
 # clarify the control flow
+# match the style used in the rest of the module
